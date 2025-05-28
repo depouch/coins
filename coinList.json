@@ -142,7 +142,7 @@
     "chain": "ETH",
     "decimals": 18,
     "address": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
-    "logo": "https://raw.githubusercontent.com/depouch/coins/70e8c5f14010903c2613fbd5372ee2455c3b8c00/images/aave.svg"
+    "logo": "https://raw.githubusercontent.com/depouch/coins/refs/heads/main/images/aave.svg"
   },
   {
     "name": "FOX",

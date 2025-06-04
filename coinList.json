@@ -84,13 +84,6 @@
     "logo": "https://static.depouch.com/assets/images/bch.svg"
   },
   {
-    "name": "Bitcoin Cash",
-    "ticker": "BCH",
-    "chain": "BCH",
-    "decimals": 8,
-    "logo": "https://static.depouch.com/assets/images/bch.svg"
-  },
-  {
     "name": "Zcash",
     "ticker": "ZEC",
     "chain": "ZEC",

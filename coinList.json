@@ -73,7 +73,7 @@
     "name": "Maya Protocol",
     "ticker": "CACAO",
     "chain": "MAYA",
-    "decimals": 8,
+    "decimals": 10,
     "logo": "https://static.depouch.com/assets/images/cacao.png"
   },
   {

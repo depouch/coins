@@ -102,7 +102,7 @@
     "ticker": "USDC",
     "chain": "BASE",
     "decimals": 6,
-    "address": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+    "address": "0x833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
     "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {
@@ -110,7 +110,7 @@
     "ticker": "CBBTC",
     "chain": "BASE",
     "decimals": 8,
-    "address": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+    "address": "0x833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
     "logo": "https://static.depouch.com/assets/images/cbbtc.webp"
   },
   {
@@ -134,7 +134,7 @@
     "ticker": "AAVE",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
+    "address": "0x7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
     "logo": "https://raw.githubusercontent.com/depouch/coins/refs/heads/main/images/aave.svg"
   },
   {
@@ -150,7 +150,7 @@
     "ticker": "GUSD",
     "chain": "ETH",
     "decimals": 2,
-    "address": "0X056FD409E1D7A124BD7017459DFEA2F387B6D5CD",
+    "address": "0x056FD409E1D7A124BD7017459DFEA2F387B6D5CD",
     "logo": "https://static.depouch.com/assets/images/gusd.png"
   },
   {
@@ -158,7 +158,7 @@
     "ticker": "LINK",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X514910771AF9CA656AF840DFF83E8264ECF986CA",
+    "address": "0x514910771AF9CA656AF840DFF83E8264ECF986CA",
     "logo": "https://static.depouch.com/assets/images/link.svg"
   },
   {
@@ -166,7 +166,7 @@
     "ticker": "LUSD",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X5F98805A4E8BE255A32880FDEC7F6728C6568BA0",
+    "address": "0x5F98805A4E8BE255A32880FDEC7F6728C6568BA0",
     "logo": "https://static.depouch.com/assets/images/lusd.svg"
   },
   {
@@ -174,7 +174,7 @@
     "ticker": "SNX",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0XC011A73EE8576FB46F5E1C5751CA3B9FE0AF2A6F",
+    "address": "0xC011A73EE8576FB46F5E1C5751CA3B9FE0AF2A6F",
     "logo": "https://static.depouch.com/assets/images/snx.svg"
   },
   {
@@ -182,7 +182,7 @@
     "ticker": "TGT",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X108A850856DB3F85D0269A2693D896B394C80325",
+    "address": "0x108A850856DB3F85D0269A2693D896B394C80325",
     "logo": "https://static.depouch.com/assets/images/tgt.webp"
   },
   {
@@ -190,7 +190,7 @@
     "ticker": "THOR",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0XA5F2211B9B8170F694421F2046281775E8468044",
+    "address": "0xA5F2211B9B8170F694421F2046281775E8468044",
     "logo": "https://static.depouch.com/assets/images/thor.webp"
   },
   {
@@ -198,7 +198,7 @@
     "ticker": "USDP",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X8E870D67F660D95D5BE530380D0EC0BD388289E1",
+    "address": "0x8E870D67F660D95D5BE530380D0EC0BD388289E1",
     "logo": "https://static.depouch.com/assets/images/usdp.svg"
   },
   {
@@ -206,7 +206,7 @@
     "ticker": "WBTC",
     "chain": "ETH",
     "decimals": 8,
-    "address": "0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
+    "address": "0x2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
     "logo": "https://static.depouch.com/assets/images/wbtc.png"
   },
   {
@@ -214,7 +214,7 @@
     "ticker": "SOL",
     "chain": "AVAX",
     "decimals": 9,
-    "address": "0XFE6B19286885A4F7F55ADAD09C3CD1F906D2478F",
+    "address": "0xFE6B19286885A4F7F55ADAD09C3CD1F906D2478F",
     "logo": "https://static.depouch.com/assets/images/sol.svg"
   },
   {
@@ -222,7 +222,7 @@
     "ticker": "USDC",
     "chain": "AVAX",
     "decimals": 6,
-    "address": "0XB97EF9EF8734C71904D8002F8B6BC66DD9C48A6E",
+    "address": "0xB97EF9EF8734C71904D8002F8B6BC66DD9C48A6E",
     "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {
@@ -230,7 +230,7 @@
     "ticker": "USDT",
     "chain": "AVAX",
     "decimals": 6,
-    "address": "0X9702230A8EA53601F5CD2DC00FDBC13D4DF4A8C7",
+    "address": "0x9702230A8EA53601F5CD2DC00FDBC13D4DF4A8C7",
     "logo": "https://static.depouch.com/assets/images/usdt.png"
   },
   {
@@ -238,7 +238,7 @@
     "ticker": "TWT",
     "chain": "BSC",
     "decimals": 18,
-    "address": "0X4B0F1812E5DF2A09796481FF14017E6005508003",
+    "address": "0x4B0F1812E5DF2A09796481FF14017E6005508003",
     "logo": "https://static.depouch.com/assets/images/twt.svg"
   },
   {
@@ -246,7 +246,7 @@
     "ticker": "USDC",
     "chain": "BSC",
     "decimals": 18,
-    "address": "0X8AC76A51CC950D9822D68B83FE1AD97B32CD580D",
+    "address": "0x8AC76A51CC950D9822D68B83FE1AD97B32CD580D",
     "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {
@@ -262,7 +262,7 @@
     "ticker": "DAI",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+    "address": "0x6B175474E89094C44DA98B954EEDEAC495271D0F",
     "logo": "https://static.depouch.com/assets/images/dai.png"
   },
   {
@@ -284,7 +284,7 @@
     "ticker": "WSTETH",
     "chain": "ETH",
     "decimals": 18,
-    "address": "0X7F39C581F595B53C5CB19BD0B3F8DA6C935E2CA0",
+    "address": "0x7F39C581F595B53C5CB19BD0B3F8DA6C935E2CA0",
     "logo": "https://static.depouch.com/assets/images/wstETH.webp"
   },
   {

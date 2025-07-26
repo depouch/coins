@@ -126,7 +126,7 @@
     "ticker": "USDC",
     "chain": "ETH",
     "decimals": 6,
-    "address": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+    "address": "0xA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
     "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {

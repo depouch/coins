@@ -293,5 +293,12 @@
     "chain": "DASH",
     "decimals": 8,
     "logo": "https://static.depouch.com/assets/images/dash.svg"
+  },
+  {
+    "name": "Rujira",
+    "ticker": "RUJI",
+    "chain": "THOR",
+    "decimals": 8,
+    "logo": "https://static.depouch.com/assets/images/ruji.svg"
   }
 ]

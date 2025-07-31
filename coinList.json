@@ -100,6 +100,14 @@
   {
     "name": "USDC",
     "ticker": "USDC",
+    "chain": "ETH",
+    "decimals": 6,
+    "address": "0xA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+    "logo": "https://static.depouch.com/assets/images/usdc.png"
+  },
+  {
+    "name": "USDC",
+    "ticker": "USDC",
     "chain": "BASE",
     "decimals": 6,
     "address": "0x833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
@@ -120,14 +128,6 @@
     "decimals": 6,
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "logo": "https://static.depouch.com/assets/images/usdt.png"
-  },
-  {
-    "name": "USDC",
-    "ticker": "USDC",
-    "chain": "ETH",
-    "decimals": 6,
-    "address": "0xA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
-    "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {
     "name": "AAVE",

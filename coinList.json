@@ -270,6 +270,7 @@
     "ticker": "TCY",
     "chain": "THOR",
     "decimals": 8,
+    "address": "",
     "logo": "https://static.depouch.com/assets/images/tcy.svg"
   },
   {
@@ -299,6 +300,7 @@
     "ticker": "RUJI",
     "chain": "THOR",
     "decimals": 8,
+    "address": "",
     "logo": "https://static.depouch.com/assets/images/ruji.svg"
   }
 ]

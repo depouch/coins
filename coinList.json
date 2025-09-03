@@ -302,5 +302,13 @@
     "decimals": 8,
     "address": "",
     "logo": "https://static.depouch.com/assets/images/ruji.svg"
+  },
+  {
+    "name": "Nami Protocol",
+    "ticker": "NAMI",
+    "chain": "THOR",
+    "decimals": 8,
+    "address": "",
+    "logo": "https://static.depouch.com/assets/images/nami.png"
   }
 ]

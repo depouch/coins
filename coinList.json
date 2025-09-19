@@ -316,7 +316,6 @@
     "ticker": "TRX",
     "chain": "TRON",
     "decimals": 6,
-    "address": "",
     "logo": "https://static.depouch.com/assets/images/tron.svg"
   }
 ]

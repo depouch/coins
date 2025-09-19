@@ -310,5 +310,13 @@
     "decimals": 8,
     "address": "",
     "logo": "https://static.depouch.com/assets/images/nami.png"
+  },
+  {
+    "name": "Tron",
+    "ticker": "TRX",
+    "chain": "TRON",
+    "decimals": 6,
+    "address": "",
+    "logo": "https://static.depouch.com/assets/images/tron.svg"
   }
 ]

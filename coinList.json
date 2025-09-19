@@ -317,5 +317,12 @@
     "chain": "TRON",
     "decimals": 6,
     "logo": "https://static.depouch.com/assets/images/tron.svg"
+  },
+  {
+    "name": "Solana",
+    "ticker": "SOL",
+    "chain": "SOL",
+    "decimals": 9,
+    "logo": "https://static.depouch.com/assets/images/sol.svg"
   }
 ]

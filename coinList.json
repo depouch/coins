@@ -324,5 +324,13 @@
     "decimals": 9,
     "address": "0xFE6B19286885A4F7F55ADAD09C3CD1F906D2478F",
     "logo": "https://static.depouch.com/assets/images/sol.svg"
+  },
+  {
+    "name": "Tether USD",
+    "ticker": "USDT",
+    "chain": "TRON",
+    "decimals": 6,
+    "address": "TR7NHQJEKQXGTCI8Q8ZY4PL8OTSZGJLJ6T",
+    "logo": "https://static.depouch.com/assets/images/usdt.png"
   }
 ]

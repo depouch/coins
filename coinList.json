@@ -25,7 +25,7 @@
     "ticker": "ADA",
     "chain": "ADA",
     "decimals": 6,
-    "logo": "https://static.depouch.com/assets/images/ada.png"
+    "logo": "https://static.depouch.com/assets/images/ada_round.png"
   },
   {
     "name": "Litecoin",
@@ -308,14 +308,14 @@
     "ticker": "TRX",
     "chain": "TRON",
     "decimals": 6,
-    "logo": "https://static.depouch.com/assets/images/tron.svg"
+    "logo": "https://static.depouch.com/assets/images/tron_round.svg"
   },
   {
     "name": "Solana",
     "ticker": "SOL",
     "chain": "SOL",
     "decimals": 9,
-    "logo": "https://static.depouch.com/assets/images/sol.svg"
+    "logo": "https://static.depouch.com/assets/images/sol.png"
   },
   {
     "name": "Wormhole Wrapped Solana",

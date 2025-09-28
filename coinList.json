@@ -334,8 +334,8 @@
     "logo": "https://static.depouch.com/assets/images/usdt.png"
   },
   {
-    "name": "Tether USD",
-    "ticker": "USDT0",
+    "name": "USDT0 Tether USD",
+    "ticker": "USDT",
     "chain": "ARB",
     "decimals": 6,
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",

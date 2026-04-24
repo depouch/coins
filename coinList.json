@@ -14,18 +14,57 @@
     "logo": "https://static.depouch.com/assets/images/eth.png"
   },
   {
-    "name": "Cosmos",
-    "ticker": "ATOM",
-    "chain": "GAIA",
-    "decimals": 6,
-    "logo": "https://static.depouch.com/assets/images/atom.png"
-  },
-  {
     "name": "Cardano",
     "ticker": "ADA",
     "chain": "ADA",
     "decimals": 6,
     "logo": "https://static.depouch.com/assets/images/ada_round.png"
+  },
+  {
+    "name": "Tether USD",
+    "ticker": "USDT",
+    "chain": "ETH",
+    "decimals": 6,
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "logo": "https://static.depouch.com/assets/images/usdt.png"
+  },
+  {
+    "name": "USDC",
+    "ticker": "USDC",
+    "chain": "ETH",
+    "decimals": 6,
+    "address": "0xA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+    "logo": "https://static.depouch.com/assets/images/usdc.png"
+  },
+  {
+    "name": "Tron",
+    "ticker": "TRX",
+    "chain": "TRON",
+    "decimals": 6,
+    "logo": "https://static.depouch.com/assets/images/tron_round.svg"
+  },
+  {
+    "name": "Tether USD",
+    "ticker": "USDT",
+    "chain": "TRON",
+    "decimals": 6,
+    "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+    "logo": "https://static.depouch.com/assets/images/usdt.png"
+  },
+  {
+    "name": "Tether Gold",
+    "ticker": "XAUT",
+    "chain": "ETH",
+    "decimals": 6,
+    "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+    "logo": "https://static.depouch.com/assets/images/xaut.svg"
+  },
+  {
+    "name": "Cosmos",
+    "ticker": "ATOM",
+    "chain": "GAIA",
+    "decimals": 6,
+    "logo": "https://static.depouch.com/assets/images/atom.png"
   },
   {
     "name": "Litecoin",
@@ -100,14 +139,6 @@
   {
     "name": "USDC",
     "ticker": "USDC",
-    "chain": "ETH",
-    "decimals": 6,
-    "address": "0xA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
-    "logo": "https://static.depouch.com/assets/images/usdc.png"
-  },
-  {
-    "name": "USDC",
-    "ticker": "USDC",
     "chain": "BASE",
     "decimals": 6,
     "address": "0x833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
@@ -120,14 +151,6 @@
     "decimals": 8,
     "address": "0xCBB7C0000AB88B473B1F5AFD9EF808440EED33BF",
     "logo": "https://static.depouch.com/assets/images/cbbtc.webp"
-  },
-  {
-    "name": "Tether USD",
-    "ticker": "USDT",
-    "chain": "ETH",
-    "decimals": 6,
-    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "logo": "https://static.depouch.com/assets/images/usdt.png"
   },
   {
     "name": "AAVE",
@@ -304,13 +327,6 @@
     "logo": "https://static.depouch.com/assets/images/nami.png"
   },
   {
-    "name": "Tron",
-    "ticker": "TRX",
-    "chain": "TRON",
-    "decimals": 6,
-    "logo": "https://static.depouch.com/assets/images/tron_round.svg"
-  },
-  {
     "name": "Solana",
     "ticker": "SOL",
     "chain": "SOL",
@@ -324,14 +340,6 @@
     "decimals": 9,
     "address": "0xFE6B19286885A4F7F55ADAD09C3CD1F906D2478F",
     "logo": "https://static.depouch.com/assets/images/sol.png"
-  },
-  {
-    "name": "Tether USD",
-    "ticker": "USDT",
-    "chain": "TRON",
-    "decimals": 6,
-    "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-    "logo": "https://static.depouch.com/assets/images/usdt.png"
   },
   {
     "name": "USDT0 Tether USD",

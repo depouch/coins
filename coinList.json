@@ -193,14 +193,6 @@
     "logo": "https://static.depouch.com/assets/images/lusd.svg"
   },
   {
-    "name": "Synthetix Network",
-    "ticker": "SNX",
-    "chain": "ETH",
-    "decimals": 18,
-    "address": "0xC011A73EE8576FB46F5E1C5751CA3B9FE0AF2A6F",
-    "logo": "https://static.depouch.com/assets/images/snx.svg"
-  },
-  {
     "name": "THORWallet Governance Token",
     "ticker": "TGT",
     "chain": "ETH",
@@ -317,14 +309,6 @@
     "decimals": 8,
     "address": "",
     "logo": "https://static.depouch.com/assets/images/ruji.svg"
-  },
-  {
-    "name": "Nami Protocol",
-    "ticker": "NAMI",
-    "chain": "THOR",
-    "decimals": 8,
-    "address": "",
-    "logo": "https://static.depouch.com/assets/images/nami.png"
   },
   {
     "name": "Solana",

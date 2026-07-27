@@ -145,6 +145,14 @@
     "logo": "https://static.depouch.com/assets/images/usdc.png"
   },
   {
+    "name": "Venice Token",
+    "ticker": "VVV",
+    "chain": "BASE",
+    "decimals": 18,
+    "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "logo": "https://raw.githubusercontent.com/depouch/coins/refs/heads/main/images/vvv.svg"
+  },
+  {
     "name": "Coinbase Wrapped Bitcoin BTC",
     "ticker": "CBBTC",
     "chain": "BASE",

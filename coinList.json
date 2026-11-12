@@ -364,5 +364,13 @@
     "decimals": 18,
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "logo": "https://static.depouch.com/assets/images/eth.png"
-  }
+  },
+  {
+    "name": "MAYA",
+    "ticker": "MAYA",
+    "chain": "MAYA",
+    "decimals": 4,
+    "address": "",
+    "logo": "https://static.depouch.com/assets/images/maya_token.svg"
+  },
 ]

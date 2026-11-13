@@ -372,5 +372,13 @@
     "decimals": 4,
     "address": "",
     "logo": "https://static.depouch.com/assets/images/maya_token.svg"
+  },
+  {
+    "name": "Chainflip",
+    "ticker": "FLIP",
+    "chain": "ETH",
+    "decimals": 18,
+    "address": "0x826180541412d574cf1336d22c0c0a287822678a",
+    "logo": "https://static.depouch.com/assets/images/flip.svg"
   }
 ]
